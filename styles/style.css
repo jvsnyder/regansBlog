@@ -1,0 +1,10 @@
+#bedHead
+{
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    text-align: center;
+}
+
+#bedHeadLogo{
+    display: block;
+    margin: 0 auto;
+}
